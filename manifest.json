@@ -1,0 +1,10 @@
+{
+  "latest_version": "1.0.0",
+  "themes": [
+    {
+      "name": "NeoStation",
+      "folder": "NeoStation",
+      "preview": "preview/neostation.jpg"
+    }
+  ]
+}
