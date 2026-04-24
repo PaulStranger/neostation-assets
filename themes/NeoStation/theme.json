@@ -2,7 +2,7 @@
   "id": "neostation",
   "name": "NeoStation",
   "author": "Miguel Soto",
-  "version": "0.1",
+  "version": "0.2",
   "description": "The default theme for NeoStation.",
   "ai": false
 }
