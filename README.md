@@ -23,7 +23,7 @@ Each theme must include a `theme.json` file with metadata:
   "author": "Your Name",
   "version": "1.0.0",
   "description": "Short description of the style.",
-  "ia": false
+  "ai": false
 }
 ```
 
