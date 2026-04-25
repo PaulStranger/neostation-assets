@@ -44,12 +44,9 @@ Refer to these IDs when naming your background images:
 To keep the repository optimized and compatible:
 
 - **Supported Formats**: 
-  - `PNG` (recommended for logos/transparency)
-  - `JPG` (photos)
   - `WebP` (optimized for fast loading)
   - `GIF` (supported for animated elements)
 - **Resolution**: A square resolution of **1024x1024px** is recommended. This ensures compatibility and optimal performance across handheld or Android devices.
-- **Optimization**: Run your images through tools like TinyPNG or similar before uploading.
 
 ## Publishing
 Once your theme is ready, ensure you:
